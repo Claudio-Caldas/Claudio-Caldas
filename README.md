@@ -1,16 +1,13 @@
-
-<p>Hi, I'm <strong>Cláudio Caldas</strong> from Brazil! <br>
-  I'm (now) 60 years old but, I swear, my body shape is 59 years old. 😂</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E8027&background=08310600&random=false&width=435&lines=I'm+Cl%C3%A1udio+Caldas+from+Brazil!)](https://git.io/typing-svg) 
 <div style="display: inline">
-  <p>I'm studying at the moment:</p>
+  <p><strong>I'm studying at the moment:</strong></p> <br>
   <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img  width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" />          
 </div>
 <br>
-<p>My firsts projects, for now, are:</p>
+<p><strong>My firsts projects, for now, are:</strong></p>
 <ul>
   <li>The famous <a href="https://claudio-caldas.github.io/firstExercise/index.html" target="_blank">first exercise</a> in any programming language.</li>
   <li>My tribute page for <a href="https://claudio-caldas.github.io/TributePage/Tribute.html" target="_blank">Tom Jobim</a>.</li>
