@@ -14,8 +14,9 @@
   <li>This project is a third module <a href="https://claudio-caldas.github.io/projeto-cordel" target="_blank">exercise </a>from Gustavo Guanabara's <a href="https://gustavoguanabara.github.io/#curso-de-html5-e-css3" >HTML5 and CSS3 course</a></li>
   <li>It wasn't my first table <a href="https://claudio-caldas.github.io/Cap21-Aula02" target="_blank"> exercise</a> but it has a touch of JavaScript...</li>
 </ul>
-<p>You can contact me by email <a href="mailto:claudiocaldas@gmail.com?"> claudiocaldas@gmail.com</a></p> 
+
 <p>Soon, I will release my <strong>PORTFOLIO</strong> with more projects and exercises.</p>
+<p>You can contact me by email <a href="mailto:claudiocaldas@gmail.com?"> claudiocaldas@gmail.com</a></p> 
 <p>I'm musician by vocation, but that's another history... <br>
   You can check out my music <a href="https://soundcloud.com/claudio-caldas" target=""_blank>here</a> or directly listening to my firsts EP's...<br>
   This is <a href="https://soundcloud.com/claudio-caldas/sets/between-imagination-and-reality?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank"> the  second one!</a> <br>
