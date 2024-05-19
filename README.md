@@ -12,7 +12,7 @@
   <li>The famous <a href="https://claudio-caldas.github.io/firstExercise/index.html" target="_blank">first exercise</a> in any programming language.</li>
   <li>My tribute page for <a href="https://claudio-caldas.github.io/TributePage/Tribute.html" target="_blank">Tom Jobim</a>.</li>
   <li>This project is a third module <a href="https://claudio-caldas.github.io/projeto-cordel" target="_blank">exercise </a>from Gustavo Guanabara's <a href="https://gustavoguanabara.github.io/#curso-de-html5-e-css3" >HTML5 and CSS3 course</a></li>
-  <li>It wasn't my first table <a href-"https://claudiocaldas.github.io/Cap21-Aula02"> exercise</a> but it has a touch of JavaScript...</li>
+  <li>It wasn't my first table <a href="https://claudio-caldas.github.io/Cap21-Aula02" target="_blank"> exercise</a> but it has a touch of JavaScript...</li>
 </ul>
 <p>You can contact me by email <a href="mailto:claudiocaldas@gmail.com?"> claudiocaldas@gmail.com</a></p> 
 <p>Soon, I will release my <strong>PORTFOLIO</strong> with more projects and exercises.</p>
