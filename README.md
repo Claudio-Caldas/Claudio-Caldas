@@ -18,7 +18,7 @@
 <p>Soon, I will release my <strong>PORTFOLIO</strong> with more projects and exercises.</p>
 <p>You can contact me by email <a href="mailto:claudiocaldas@gmail.com?"> claudiocaldas@gmail.com</a></p> 
 <p>I'm musician by vocation, but that's another history... <br>
-  You can check out my music <a href="https://soundcloud.com/claudio-caldas" target=""_blank>here</a> or directly listening to my firsts EP's...<br>
+  You can check out my music <a href="https://soundcloud.com/claudio-caldas" target=""_blank>here</a> or listening directly to my released works...<br>
   This is <a href="https://soundcloud.com/claudio-caldas/sets/between-imagination-and-reality?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank"> the  second one!</a> <br>
   This is <a href="https://soundcloud.com/claudio-caldas/sets/estudio-imid-volume-11" >the first one!</a>
 </p>
