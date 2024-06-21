@@ -17,8 +17,8 @@
  <!-- <li>Two HTML tables challenges. <a href="https://claudio-caldas.github.io/Desafio013/index.html" target="_blank">Merging</a>...</li> -->
 </ul>
 <p>For now I prefer not to post anything new, as I am completing my studies in HTML, CSS and JavaScript. Soon I will have certification from freeCodeCamp and Gustavo Guanabara (an excellent course, here in Brazil) too. Now, I already have the Certification in Programming Logic and the Certification in Basic JavaScript. If you follow me because you're enjoying my progress, and you're not just interested in me following you back and you need a work partner, we can talk later... My deadline is the end of July to post my workouts and projects. Thank you very much for your support encouraging me! :-)</p>
-<p>Soon, I will release my <strong>PORTFOLIO</strong> with more projects and exercises.<---</p>
-<p>---> You can contact me by email <a href="mailto:claudiocaldas@gmail.com?"> claudiocaldas@gmail.com</a></p> 
+<p>--->Soon, I will release my <strong>PORTFOLIO</strong> with more projects and exercises.<---</p>
+<p> You can contact me by email <a href="mailto:claudiocaldas@gmail.com?"> claudiocaldas@gmail.com</a></p> 
 <p>I'm musician by vocation, but that's another history... <br>
   You can check out my music <a href="https://soundcloud.com/claudio-caldas" target=""_blank>here</a> or listening directly to my released works...<br>
   This is <a href="https://soundcloud.com/claudio-caldas/sets/between-imagination-and-reality?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank"> the  second one!</a> <br>
