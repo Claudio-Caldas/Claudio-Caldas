@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E8027&background=08310600&random=false&width=435&lines=I'm+Cl%C3%A1udio+Caldas+from+Brazil!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E8027&background=08310600&random=false&width=435&lines=I'm+Cl%C3%A1udio+Caldas+from+Brazil!)](https://git.io/typing-svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 <div style="display: inline">
  
