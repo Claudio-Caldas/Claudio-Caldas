@@ -20,6 +20,7 @@
  <!-- <li>Two HTML tables challenges. <a href="https://claudio-caldas.github.io/Desafio013/index.html" target="_blank">Merging</a>...</li> -->
 </ul>
 <p> You can contact me by email <a href="mailto:claudiocaldas@gmail.com?"> claudiocaldas@gmail.com</a></p> 
+[![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Caldas)](https://github.com/Claudio-Caldas/github-readme-stats)
 <p>I'm musician by vocation, but that's another history... <br>
   You can check out my music <a href="https://soundcloud.com/claudio-caldas" target=""_blank>here</a> or listening directly to my released works...<br>
   This is <a href="https://soundcloud.com/claudio-caldas/sets/between-imagination-and-reality?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank"> the  second one!</a> <br>
