@@ -16,9 +16,8 @@
 
 
 <p>I'm musician too... <br>
-  You can check out my music <a href="https://soundcloud.com/claudio-caldas" target=""_blank>here</a> or listening directly to my released works...<br>
-  This is <a href="https://soundcloud.com/claudio-caldas/sets/between-imagination-and-reality?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank"> the  second one!</a> <br>
-  This is <a href="https://soundcloud.com/claudio-caldas/sets/estudio-imid-volume-11" >the first one!</a>
+  This is <a href="https://soundcloud.com/claudio-caldas/sets/between-imagination-and-reality?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank"> the  second</a> published EP! <br>
+  This is <a href="https://soundcloud.com/claudio-caldas/sets/estudio-imid-volume-11" >the first</a> published EP! 
 </p>
 
 <!---
