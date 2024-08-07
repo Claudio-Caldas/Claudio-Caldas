@@ -2,7 +2,7 @@
 
 
 <div style="display: inline">
- <p><a href="https://claudio-caldas.github.io/Portfolio/"><strong>My portfolio</strong></a> - For while, only in brazilian portuguese.</p>
+ <p><a href="https://claudio-caldas.github.io/Portfolio/" target="_blank"><strong>My portfolio</strong></a> - For while, only in brazilian portuguese.</p>
 <hr style="color:black;">
  
   <p><strong>*** My skills ***</strong></p> 
