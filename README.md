@@ -2,26 +2,20 @@
 
 
 <div style="display: inline">
+ <a href="https://claudio-caldas.github.io/Portfolio/"><p><strong>My portfolio</strong></p></a>
+<hr style="color:black;">
  
-  <p><strong>I'm studying at the moment:</strong></p> 
+  <p><strong>*** My skills ***</strong></p> 
   <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img  width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" />          
 </div>
-<br>
-<p><strong>My firsts projects, for now, are:</strong></p>
-<ul>
-  <li>The famous <a href="https://claudio-caldas.github.io/firstExercise/index.html" target="_blank">first exercise</a> in any programming language.</li>
-  <li>My tribute page for <a href="https://claudio-caldas.github.io/TributePage/Tribute.html" target="_blank">Tom Jobim</a>.</li>
-  <li>This project is a third module <a href="https://claudio-caldas.github.io/projeto-cordel" target="_blank">exercise </a>from Gustavo Guanabara's <a href="https://gustavoguanabara.github.io/#curso-de-html5-e-css3" >HTML5 and CSS3 course</a></li>
-  <li>It wasn't my first table <a href="https://claudio-caldas.github.io/Cap21-Aula02" target="_blank"> exercise</a> but it has a touch of JavaScript...</li>
-  <li>The Astronaut CSS Challenge. In the <a href="https://claudio-caldas.github.io/Desafio011/index.html" target="_blank">center</a> on any device...</li>
- <!-- <li>Two HTML tables challenges. <a href="https://claudio-caldas.github.io/Desafio013/index.html" target="_blank">Merging</a>...</li> -->
-</ul>
-<p> You can contact me by email <a href="mailto:claudiocaldas@gmail.com?"> claudiocaldas@gmail.com</a></p> 
 
-<p>I'm musician by vocation, but that's another history... <br>
+<hr>
+
+
+<p>I'm musician too... <br>
   You can check out my music <a href="https://soundcloud.com/claudio-caldas" target=""_blank>here</a> or listening directly to my released works...<br>
   This is <a href="https://soundcloud.com/claudio-caldas/sets/between-imagination-and-reality?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank"> the  second one!</a> <br>
   This is <a href="https://soundcloud.com/claudio-caldas/sets/estudio-imid-volume-11" >the first one!</a>
