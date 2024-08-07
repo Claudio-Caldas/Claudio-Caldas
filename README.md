@@ -5,8 +5,8 @@
 
 
 <div style="display: inline">
- <p><a href="https://claudio-caldas.github.io/Portfolio/" target="_blank"><strong>My portfolio</strong></a> - For while, only in brazilian portuguese.</p>
-<hr style="color:black;">
+<!-- <p><a href="https://claudio-caldas.github.io/Portfolio/" target="_blank"><strong>My portfolio</strong></a> - For while, only in brazilian portuguese.</p> -->
+<hr>
  
   <p><strong>*** My skills ***</strong></p> 
   <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
