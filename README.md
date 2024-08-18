@@ -4,8 +4,8 @@
 <img src="https://github.com/Claudio-Caldas/Portfolio/blob/main/img/earth-small.png"/>
 
 
-<div style="display: inline">
-<p><a href="https://claudio-caldas.github.io/Portfolio/english.html" target="_blank"><strong>My portfolio</strong></a> in english</p>
+<!--<div style="display: inline">
+<p><a href="https://claudio-caldas.github.io/Portfolio/english.html" target="_blank"><strong>My portfolio</strong></a> in english</p>-->
 <hr>
  <!--  <p><strong>*** I'm studying now ***</strong></p> 
    <img  width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
