@@ -21,7 +21,9 @@
 
 
 <p>I'm musician too...</p> <br>
-<a href="https://claudio-caldas.github.io/MyMusic/english.html" target="_blank">Do you know my music?</a>
+<a href="https://claudio-caldas.github.io/MyMusic/english.html" target="_blank">Do you know my music?</a> <br>
+<p> If you like my music, please <a href="https://www.paypal.com/donate?token=pr2SrYGdy6fuVSmWQdO4GkCanKB20c-s_rhH1meVQf11hq0RgZ4W_BSxm7cBZMbhmDR3ONMC2G52ddkm" target="_blank">contribute</a> to the independent artist! </p>
+
  
 
 <!---
