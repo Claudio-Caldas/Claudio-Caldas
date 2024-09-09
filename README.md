@@ -22,7 +22,7 @@
 
 <p>I'm musician too...</p> <br>
 <a href="https://claudio-caldas.github.io/MyMusic/english.html" target="_blank">Do you know my music?</a> <br>
-<p> If you like my music, please <a href="https://www.paypal.com/donate?token=pr2SrYGdy6fuVSmWQdO4GkCanKB20c-s_rhH1meVQf11hq0RgZ4W_BSxm7cBZMbhmDR3ONMC2G52ddkm" target="_blank">contribute</a> to the independent artist! </p>
+<p> If you like my music, please <a href="[https://www.paypal.com/donate?token=DmMDjcgYn_byi7cxEBOc4k8VQ72_w49_F9USiNL72CcWCSow9ql2K7XPwmsRZPv9UUEqOvJquqH1riEj]" target="_blank">contribute</a> to the independent artist! </p>
 
  
 
