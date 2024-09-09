@@ -20,10 +20,9 @@
 <hr>
 
 
-<p>I'm musician too... <br>
-  This is <a href="https://soundcloud.com/claudio-caldas/sets/between-imagination-and-reality?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank"> the  second</a> published EP! <br>
-  This is <a href="https://soundcloud.com/claudio-caldas/sets/estudio-imid-volume-11" >the first</a> published EP! 
-</p>
+<p>I'm musician too...</p> <br>
+<a href="https://claudio-caldas.github.io/MyMusic/english.html" target="_blank">Do you know my music?</a>
+ 
 
 <!---
 Claudio-Caldas/Claudio-Caldas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
